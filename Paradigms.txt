@@ -1,0 +1,46 @@
+                                                           " Proqramlasdirma paradigmalari "
+
+
+Ilk once Paradigma anlayisi nedir?
+Paradigma- Fransizca paradigme sozunden goturulmusdur tam olaraq menasi bir meseleye "baxis terzi" kimi tercume etmek olar.
+
+1.Imperative paradigma nedir ?
+
+Imperative paradigma- Emirli paradigma demekdir.Imperative paradigmalar komputerin sirali sekilde gerceklesdireceyi 
+emirlerdir lakin burda emirler ardicilligi cox onemlidir cunki emirler ardicilligi bira basa neticeye tesir ede bilir.
+
+                                                             "Ustunlukleri"
+
+1.Semereli
+2.Masina yaxin
+3.Meshur
+4.Taninan
+
+                                                             "Menfi cehetleri"
+
+1.Yan tesirleri xetani arasdirmaqda cetinlink cekir.
+2.Abstrakt bir paradiqmalari ile daha mehduddur.
+3.Emirler her zaman problemlere uygun olmayada biler bu cox vacibdi.
+
+
+
+2.Functional paradigma nedir ?
+
+Functional paradigmalar,butun alt proqramlari Funksional riyazi olaraq qeyri resmi gosterir argumentleri alir 
+ve tek hell getirir.Geri  dondurulen hell daxil olunanlardan aslidir ve prosesin cagrilma zamani ile heec bir elaqesi yoxdu.
+Hesablama modeli buna gore de funksiyon tetbiqi ve azaldilmasi biridir.
+
+                                                              
+                                                              "Ustunlukleri"
+
+1.Abstraksiyanin yuksek seviyyesi,ozellikle funksiyalarin islenmesinde,proqamlasdirmanin bir cox ayrintisi aradan qaldirmaga 
+komek edir ve bir cox xetanin yaranmasinin qarsisini alir.
+2.
+
+
+
+
+3.Locigal paradigma nedir ?
+
+Mentiqi paradigma problem hell etmek ucun izahedici yanasma teleb edir.Bir veziyyet haqqinda muxtelif mentiqi  iddialar
+butun melum faktlar ortaya cixarilir.Sonra bezi sorgular yapilir.
